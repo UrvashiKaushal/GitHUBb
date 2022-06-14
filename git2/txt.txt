@@ -1,0 +1,2 @@
+The file of git2
+here is the first file
